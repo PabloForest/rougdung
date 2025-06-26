@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "rougdung the game/1.0.0": {
+        "runtime": {
+          "rougdung the game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rougdung the game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

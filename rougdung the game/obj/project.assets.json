@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\roungdung game\\roungdung game.csproj",
-      "projectName": "roungdung game",
-      "projectPath": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\roungdung game\\roungdung game.csproj",
+      "projectUniqueName": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\rougdung the game\\rougdung the game.csproj",
+      "projectName": "rougdung the game",
+      "projectPath": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\rougdung the game\\rougdung the game.csproj",
       "packagesPath": "C:\\Users\\panar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\roungdung game\\obj\\",
+      "outputPath": "C:\\Users\\panar\\Documents\\GitHub\\rougdung\\rougdung the game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\panar\\AppData\\Roaming\\NuGet\\NuGet.Config"

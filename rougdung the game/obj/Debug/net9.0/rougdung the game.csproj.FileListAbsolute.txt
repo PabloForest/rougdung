@@ -1,0 +1,15 @@
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\bin\Debug\net9.0\rougdung the game.exe
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\bin\Debug\net9.0\rougdung the game.deps.json
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\bin\Debug\net9.0\rougdung the game.runtimeconfig.json
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\bin\Debug\net9.0\rougdung the game.dll
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\bin\Debug\net9.0\rougdung the game.pdb
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.AssemblyInfoInputs.cache
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.AssemblyInfo.cs
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.csproj.CoreCompileInputs.cache
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.sourcelink.json
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.dll
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\refint\rougdung the game.dll
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.pdb
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\rougdung the game.genruntimeconfig.cache
+c:\Users\panar\Documents\GitHub\rougdung\rougdung the game\obj\Debug\net9.0\ref\rougdung the game.dll
