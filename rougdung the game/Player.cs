@@ -6,6 +6,8 @@ public class Player
     public int X;
     public int Y;
     public bool HasKey = false;
+    public bool NextFloorRequested { get; set; } = false;
+
     private List<string> inventory = new List<string>();
 
     public void AddItem(string item)
